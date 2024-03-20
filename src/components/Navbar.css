@@ -1,0 +1,12 @@
+
+ul {
+    list-style-type: none;
+    display: flex;
+    font-size: 20px;
+    justify-content: center;
+    gap: 30px;
+}
+
+ul li {
+    margin-top: 20px;
+}
