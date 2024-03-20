@@ -1,0 +1,47 @@
+
+
+.all-tasks-title {
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.all-tasks {
+    margin-top: 50px;
+    border: 1px solid lightgray;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 15px;
+}
+
+.task {
+    gap: 100px;
+    border-bottom: 1px solid lightgray;
+}
+
+.single-task-title {
+    font-size: 14px;
+    text-align: left;
+    padding-left: 10px;
+    color: black;
+    font-weight: 500;
+}
+
+.edit {
+    width: 25px;
+    height: 25px;
+    cursor: pointer;
+}
+
+.delete {
+    width: 25px;
+    height: 25px;
+    cursor: pointer;
+}
+
+.icons-style {
+    padding-left: 5px !important;
+    padding-right: 10px !important;
+    text-align: right;
+}
